@@ -75,3 +75,8 @@ month = jun
 
 This repo is built upon the framework of [DASR](https://github.com/The-Learning-And-Vision-Atelier-LAVA/DASR), and we borrow some code from [mmcv](https://github.com/open-mmlab/mmcv), thanks for their excellent work!
 
+## Experiment
+Install PyTorch/TorchVision on SCC:
+```sh
+conda install pytorch=1.7.0 torchvision=0.8.0 cudatoolkit=11.0.3 -c pytorch -c conda-forge
+```
